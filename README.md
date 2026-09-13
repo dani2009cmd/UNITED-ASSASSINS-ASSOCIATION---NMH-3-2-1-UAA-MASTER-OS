@@ -2,7 +2,7 @@
  
 Listen up, grasshopper. You think climbing the United Assassins Association rank list is easy when your hands are giving you grief? Hell no. This is the ultimate control engine designed so you can slice through Santa Destroy without blowing out your wrist tendons.
 ⚠️ CREATOR'S NOTE & ACCESSIBILITY DISCLOSURE
-Accessibility & AI Note: This macro suite was provided by dani and built with the assistance of Artificial Intelligence to help overcome physical limitations caused by a hand condition.
+Accessibility & AI Note: This macro suite was provided by dani and built with the assistance of Artificial Intelligence to help overcome physical limitations caused by a hand condition. Warning, this project is in beta and we are looking for contributors if you can code. Thank you very much. I'm sorry.
 * Development Time: Built and tuned over a 24-hour span (approximately 5 to 6 hours of active collaborative AI development and testing, excluding sleep).
 * Performance Disclaimer: Because this was engineered using AI assistance to accommodate physical accessibility needs, it may not run 100% perfectly in every edge case or system configuration. Tweak the timing sliders in the GUI (F4) to dial it in for your setup!
 What This Rig Does For You
